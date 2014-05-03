@@ -25,43 +25,25 @@
     <orderEntry type="library" exported="" name="Gradle: javassist-3.18.1-GA" level="project" />
     <orderEntry type="library" exported="" name="Gradle: antlr-2.7.7" level="project" />
     <orderEntry type="library" exported="" name="Gradle: jandex-1.1.0.Final" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: docker-java-0.8.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jersey-core-1.18" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jersey-client-1.18" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jettison-1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: stax-api-1.0-2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: activation-1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jaxb-api-2.2.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jaxb-impl-2.2.3-1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jackson-core-asl-1.9.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jackson-mapper-asl-1.9.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jackson-jaxrs-1.9.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jackson-xc-1.9.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jersey-json-1.18" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: mimepull-1.9.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jersey-multipart-1.18" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: httpcore-4.2.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: commons-logging-1.1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: commons-codec-1.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: httpclient-4.2.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jersey-apache-client4-1.9" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: xz-1.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: commons-compress-1.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: commons-lang-2.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: commons-io-2.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jffi-1.2.7" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: asm-4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: asm-tree-4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: asm-commons-4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: asm-analysis-4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: asm-util-4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jnr-x86asm-1.0.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jnr-ffi-1.0.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jnr-constants-0.8.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jnr-enxio-0.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jnr-unixsocket-0.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: jffi-1.2.7-native" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: slf4j-api-1.7.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jersey-client-2.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.ws.rs-api-2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject-1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: hk2-utils-2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: aopalliance-repackaged-2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: hk2-api-2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject-2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: hk2-locator-2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.annotation-api-1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jersey-guava-2.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: osgi-resource-locator-1.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jersey-common-2.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jersey-media-json-jackson-2.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jackson-core-asl-1.9.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jackson-mapper-asl-1.9.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jackson-jaxrs-1.9.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: jackson-xc-1.9.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: postgresql-9.1-901.jdbc4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: hibernate-entitymanager-4.3.5.Final" level="project" />
   </component>
 </module>
 
